@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199770449950",
+    "project_id": "erp-system-a2ea6",
+    "storage_bucket": "erp-system-a2ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199770449950:android:0bfb0274fa203c8b40260f",
+        "android_client_info": {
+          "package_name": "com.example.erp_system_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5J23itmQmGdbCBYknp-GkkaATZBqobTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

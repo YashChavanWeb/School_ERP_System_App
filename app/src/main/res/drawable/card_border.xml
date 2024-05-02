@@ -1,0 +1,9 @@
+<!-- card_border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <stroke
+        android:width="2dp"
+    android:color="@android:color/black" /> <!-- Border color -->
+    <corners
+        android:radius="10dp" /> <!-- Corner radius -->
+</shape>

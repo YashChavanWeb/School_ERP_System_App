@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- Quiz Questions and Options -->
+    <LinearLayout
+        android:id="@+id/questionsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Sample Question -->
+        <TextView
+            android:id="@+id/questionTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"/>
+
+
+        <RadioGroup
+            android:id="@+id/optionsRadioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/optionARadioButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A) Paris"
+                android:enabled="true"/>
+
+            <RadioButton
+                android:id="@+id/optionBRadioButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="B) Rome"
+                android:enabled="true"/>
+
+            <RadioButton
+                android:id="@+id/optionCRadioButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="C) Madrid"
+                android:enabled="true"/>
+
+            <RadioButton
+                android:id="@+id/optionDRadioButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="D) Berlin"
+                android:enabled="true"/>
+
+        </RadioGroup>
+
+        <!-- Submit Button -->
+        <Button
+            android:id="@+id/submit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit"/>
+
+    </LinearLayout>
+
+    <!-- Divider -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray" />
+
+</LinearLayout>
