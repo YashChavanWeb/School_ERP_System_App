@@ -3,8 +3,8 @@
 Welcome to our School ERP System app repository! This project represents the culmination of relentless dedication and cutting-edge technology, meticulously crafted using Kotlin for Android Studio with Firebase backend integration.
 
 ## Check the Demo Here:
-### Video: https://www.linkedin.com/feed/update/urn:li:activity:7191753978693464065/
-### Images: https://drive.google.com/drive/folders/1CWiAhePinnzS6kF_t1rKYoEUJnTKUi_8?usp=sharing
+[![School ERP System App Demo](https://drive.google.com/drive/folders/1CWiAhePinnzS6kF_t1rKYoEUJnTKUi_8)](https://drive.google.com/drive/u/1/my-drive)
+Click on the image above to watch the demo video.
 
 
 
