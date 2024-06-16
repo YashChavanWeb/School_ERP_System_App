@@ -3,7 +3,7 @@
 Welcome to our School ERP System app repository! This project represents the culmination of relentless dedication and cutting-edge technology, meticulously crafted using Kotlin for Android Studio with Firebase backend integration.
 
 ## Check the Demo Here:
-[![School ERP System App Demo](https://aws.vedmarg.com/wp-content/uploads/2022/08/vedmarg-erp-system-meerut.jpg)](https://drive.google.com/drive/u/1/my-drive)
+[![School ERP System App Demo](https://drive.google.com/drive/u/1/my-drive)
 Click on the image above to watch the demo video.
 
 
